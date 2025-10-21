@@ -13,3 +13,4 @@
 *DURATION*: 4 WEEKS
 
 # OUTPUT
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/05ab4fa9-4c0d-4620-b6ba-081b9566d4d3" />
